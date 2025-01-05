@@ -5,3 +5,7 @@
 ```
  source venv/bin/activate
 ```
+### 仮想環境の終了
+```
+ deactivate
+```
